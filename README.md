@@ -1,11 +1,10 @@
-<!-- HEADER -->
+<!-- HEADER (UPGRADED) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Gehad%20Khalifa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gehad%20Khalifa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;AI+Enthusiast;Content+Creator;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;AI+Enthusiast;Content+Creator;Canva+Designer;Always+Learning+New+Things&font=Fira%20Code&center=true&width=520&height=45&color=00C2FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
