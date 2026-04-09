@@ -37,14 +37,4 @@
 💡 Passionate about Artificial Intelligence & Web Development  
 🎨 Designer using Canva  
 🚀 Always improving my programming skills  
-📚 Learning new technologies every day  
----
-
-## 🧠 About Me
-
-```text
-🎓 Computer Science & AI Student  
-💡 Passionate about Artificial Intelligence & Web Development  
-🎨 Designer using Canva  
-🚀 Always improving my programming skills  
-📚 Learning new technologies every day  
+📚 Learning new technologies every day 
