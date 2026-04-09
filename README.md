@@ -1,13 +1,11 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Gehad%20Khalifa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gehad%20Khalifa&fontSize=42&fontColor=ffffff"/>
 </p>
 
-<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;AI+Enthusiast;Content+Creator;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/wave-hand.gif" width="45"/>
+  <b>Welcome to my GitHub Profile</b>
 </p>
-
 ---
 
 ## 🌐 Connect with me
