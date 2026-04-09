@@ -1,10 +1,15 @@
-<!-- HEADER (UPGRADED) -->
+<!-- HEADER (ULTRA PROFESSIONAL + ROBOT) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gehad%20Khalifa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Gehad%20Khalifa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;AI+Enthusiast;Content+Creator;Canva+Designer;Always+Learning+New+Things&font=Fira%20Code&center=true&width=520&height=45&color=00C2FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=🤖+AI+Explorer+%7C+Computer+Science+Student;💡+Future+AI+Engineer+%7C+Content+Creator;🎨+Designer+Using+Canva;🚀+Always+Learning+New+Things&font=Fira%20Code&center=true&width=600&height=50&color=00C2FF&vCenter=true&pause=1000&size=20" />
+</p>
+
+<!-- SMALL ROBOT IMAGE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212259920-6c6c2b5b-3d6f-4f3a-9f7a-2f2c9b3b8c20.gif" width="120"/>
 </p>
 
 ---
