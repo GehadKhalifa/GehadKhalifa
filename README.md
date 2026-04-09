@@ -1,15 +1,11 @@
-<!-- HEADER (ULTRA PROFESSIONAL + ROBOT) -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Gehad%20Khalifa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Gehad%20Khalifa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🤖+AI+Explorer+%7C+Computer+Science+Student;💡+Future+AI+Engineer+%7C+Content+Creator;🎨+Designer+Using+Canva;🚀+Always+Learning+New+Things&font=Fira%20Code&center=true&width=600&height=50&color=00C2FF&vCenter=true&pause=1000&size=20" />
-</p>
-
-<!-- SMALL ROBOT IMAGE -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259920-6c6c2b5b-3d6f-4f3a-9f7a-2f2c9b3b8c20.gif" width="120"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;AI+Enthusiast;Content+Creator;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=45&color=00C2FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
@@ -32,6 +28,16 @@
 
 </p>
 
+---
+
+## 🧠 About Me
+
+```text
+🎓 Computer Science & AI Student  
+💡 Passionate about Artificial Intelligence & Web Development  
+🎨 Designer using Canva  
+🚀 Always improving my programming skills  
+📚 Learning new technologies every day  
 ---
 
 ## 🧠 About Me
