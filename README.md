@@ -1,12 +1,18 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gehad%20Khalifa&fontSize=42&fontColor=ffffff"/>
+<!-- HEADER -->
+<p align="center" style="margin-bottom:5px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=200&section=header&text=Gehad%20Khalifa&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/wave-hand.gif" width="45"/>
-  <b>Welcome to my GitHub Profile</b>
+<p align="center" style="margin-top:-10px; margin-bottom:5px;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  <b style="font-size:22px;">Welcome to my GitHub Profile</b>
 </p>
----
+
+<br/>
+
+<p align="center" style="margin-top:5px; margin-bottom:5px;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast+%7C+Developer+%7C+Designer;Building+Smart+Projects+with+AI;Always+Learning+and+Improving&font=Fira%20Code&center=true&width=750&height=60&color=00C2FF&vCenter=true&pause=1000&size=24"/>
+</p>
 
 ## 🌐 Connect with me
 
